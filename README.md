@@ -1,7 +1,7 @@
 # CPS510-
 
 Partners: 
-Edward Boguslavsky
+Edward Boguslavsky,
 Mahad Farah 
 
 CPS510 SQL Project: Employee Clocking DBMS
